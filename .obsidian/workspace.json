@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/00. Введение.md",
+                "file": "ООП/01. ООП.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/00. Введение.md",
+                "file": "ООП/01. ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/00. Введение.md",
+                "file": "ООП/01. ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/00. Введение.md"
+                "file": "ООП/01. ООП.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "98b5afe744edc64f",
   "lastOpenFiles": [
-    "README.md",
+    "ООП/01. ООП.md",
+    "ООП/01. ООП.md",
     "ООП/00. Введение.md",
+    "README.md",
     "ООП"
   ]
 }
