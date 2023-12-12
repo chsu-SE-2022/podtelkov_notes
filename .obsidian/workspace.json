@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/01. ООП.md",
+                "file": "ООП/02. Паша.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/01. ООП.md",
+                "file": "ООП/02. Паша.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/01. ООП.md",
+                "file": "ООП/02. Паша.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/01. ООП.md"
+                "file": "ООП/02. Паша.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "98b5afe744edc64f",
   "lastOpenFiles": [
     "ООП/01. ООП.md",
-    "ООП/01. ООП.md",
+    "ООП/02. Паша.md",
     "ООП/00. Введение.md",
     "README.md",
     "ООП"
