@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98b5afe744edc64f",
+            "id": "dfdd778bac4aabf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/02. Паша.md",
+                "file": "ООП/Заметки на полях по ООП.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/02. Паша.md",
+                "file": "ООП/Заметки на полях по ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/02. Паша.md",
+                "file": "ООП/Заметки на полях по ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/02. Паша.md"
+                "file": "ООП/Заметки на полях по ООП.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98b5afe744edc64f",
+  "active": "dfdd778bac4aabf0",
   "lastOpenFiles": [
-    "ООП/01. ООП.md",
-    "ООП/02. Паша.md",
-    "ООП/00. Введение.md",
     "README.md",
+    "ООП/Заметки на полях по ООП.md",
+    "ООП/00. Введение.md",
+    "ООП/02. Паша.md",
+    "ООП/01. ООП.md",
     "ООП"
   ]
 }
