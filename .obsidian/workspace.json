@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e811eb2278445cfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ООП/Заметки на полях по ООП.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b9f7f7ddb6c16ce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ООП/Наследование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a40f15245efe7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структуры/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Наследование.md",
+                "file": "Структуры/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/Наследование.md",
+                "file": "Структуры/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/Наследование.md"
+                "file": "Структуры/Untitled.md"
               }
             }
           }
@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9f7f7ddb6c16ce8",
+  "active": "82f19b2f89fe4d2b",
   "lastOpenFiles": [
-    "ООП/Заметки на полях по ООП.md",
     "ООП/Наследование.md",
+    "Структуры/Untitled.md",
+    "Структуры",
+    "ООП/Заметки на полях по ООП.md",
     "README.md",
     "Графика/Цветовые модели.md",
     "Графика/Популярные графические редакторы.md",
