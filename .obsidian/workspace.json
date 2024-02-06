@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Графика/Цветовые модели.md",
+                "file": "ООП/Заметки на полях по ООП.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Графика/Цветовые модели.md",
+                "file": "ООП/Заметки на полях по ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Графика/Цветовые модели.md",
+                "file": "ООП/Заметки на полях по ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Графика/Цветовые модели.md"
+                "file": "ООП/Заметки на полях по ООП.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "e811eb2278445cfb",
   "lastOpenFiles": [
-    "Графика/Популярные графические редакторы.md",
+    "README.md",
     "Графика/Цветовые модели.md",
+    "Графика/Популярные графические редакторы.md",
     "Графика/Графические системы и языки.md",
     "Графика/Графика эта....md",
     "ООП/Заметки на полях по ООП.md",
     "Графика",
-    "README.md",
     "ООП/00. Введение.md",
     "ООП/02. Паша.md",
     "ООП/01. ООП.md",
