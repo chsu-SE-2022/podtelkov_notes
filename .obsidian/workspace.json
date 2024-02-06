@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Графика/Графика эта....md",
+                "file": "Графика/Графические системы и языки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b5e438f5091e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Графика/Графические системы и языки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Графика/Графика эта....md",
+                "file": "Графика/Графические системы и языки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Графика/Графика эта....md",
+                "file": "Графика/Графические системы и языки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Графика/Графика эта....md"
+                "file": "Графика/Графические системы и языки.md"
               }
             }
           }
@@ -148,8 +160,9 @@
   },
   "active": "8446088f9c6fc951",
   "lastOpenFiles": [
-    "ООП/Заметки на полях по ООП.md",
     "Графика/Графика эта....md",
+    "Графика/Графические системы и языки.md",
+    "ООП/Заметки на полях по ООП.md",
     "Графика",
     "README.md",
     "ООП/00. Введение.md",
