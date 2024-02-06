@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структуры/Untitled.md",
+                "file": "Структуры/Обход графа в ширину (волновой обход).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структуры/Untitled.md",
+                "file": "Структуры/Обход графа в ширину (волновой обход).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структуры/Untitled.md",
+                "file": "Структуры/Обход графа в ширину (волновой обход).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структуры/Untitled.md"
+                "file": "Структуры/Обход графа в ширину (волновой обход).md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82f19b2f89fe4d2b",
+  "active": "4a40f15245efe7a7",
   "lastOpenFiles": [
     "ООП/Наследование.md",
-    "Структуры/Untitled.md",
+    "Структуры/Обход графа в ширину (волновой обход).md",
     "Структуры",
     "ООП/Заметки на полях по ООП.md",
     "README.md",
