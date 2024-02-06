@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Графика/Untitled.md",
+                "file": "Графика/Популярные графические редакторы.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Графика/Untitled.md",
+                "file": "Графика/Популярные графические редакторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Графика/Untitled.md",
+                "file": "Графика/Популярные графические редакторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Графика/Untitled.md"
+                "file": "Графика/Популярные графические редакторы.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82f19b2f89fe4d2b",
+  "active": "a3fb84961d45e01f",
   "lastOpenFiles": [
     "Графика/Графические системы и языки.md",
-    "Графика/Untitled.md",
+    "Графика/Популярные графические редакторы.md",
     "Графика/Графика эта....md",
     "ООП/Заметки на полях по ООП.md",
     "Графика",
