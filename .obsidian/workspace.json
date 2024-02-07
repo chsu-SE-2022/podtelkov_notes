@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bee6dc5e6c44eeb3",
+        "id": "424f6421f764d5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f7f7ddb6c16ce8",
+            "id": "933cf86813b98d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ООП/Наследование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a40f15245efe7a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структуры/1. Обход графа в ширину (волновой обход).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d3cf1c881afbc80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структуры/2. Алгоритм Дейкстры.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структуры/2. Алгоритм Дейкстры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структуры/2. Алгоритм Дейкстры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Структуры/2. Алгоритм Дейкстры.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,12 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d3cf1c881afbc80",
+  "active": "933cf86813b98d11",
   "lastOpenFiles": [
+    "Компас.md",
+    "Структуры/2. Алгоритм Дейкстры.md",
+    "Untitled",
     "Files/Pasted image 20240206163325.png",
     "Files/Pasted image 20240206161925.png",
     "Структуры/1. Обход графа в ширину (волновой обход).md",
-    "Структуры/2. Алгоритм Дейкстры.md",
     "Files/Pasted image 20240206154746.png",
     "Files",
     "Files/Pasted image 20240206154157.png",
