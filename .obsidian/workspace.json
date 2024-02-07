@@ -11,8 +11,12 @@
             "id": "933cf86813b98d11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Теория автоматов/что-то.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Теория автоматов/что-то.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Теория автоматов/что-то.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Теория автоматов/что-то.md"
+              }
             }
           }
         ]
@@ -140,9 +148,10 @@
   },
   "active": "933cf86813b98d11",
   "lastOpenFiles": [
+    "Теория автоматов/что-то.md",
+    "Теория автоматов",
     "Компас.md",
     "Структуры/2. Алгоритм Дейкстры.md",
-    "Untitled",
     "Files/Pasted image 20240206163325.png",
     "Files/Pasted image 20240206161925.png",
     "Структуры/1. Обход графа в ширину (волновой обход).md",
