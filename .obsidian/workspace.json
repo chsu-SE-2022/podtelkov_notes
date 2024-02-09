@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.md",
+                "file": "01 Шифраторы и дешифраторы.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.md",
+                "file": "01 Шифраторы и дешифраторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.md",
+                "file": "01 Шифраторы и дешифраторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.md"
+                "file": "01 Шифраторы и дешифраторы.md"
               }
             }
           }
@@ -159,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82f19b2f89fe4d2b",
+  "active": "6837939879a47f3c",
   "lastOpenFiles": [
+    "Files/Pasted image 20240209093751.png",
+    "Files/Pasted image 20240209093526.png",
     "ЭВМ",
     "Основы Data Science/01. Вводная лекция.md",
-    "01.md",
+    "01 Шифраторы и дешифраторы.md",
     "Теория автоматов и формальных языков/Лекции/05. Формальные языки и их грамматики.md",
     "Теория автоматов и формальных языков/Лекции/06. Синтаксический анализ.md",
     "Теория автоматов и формальных языков/Лекции/07. Эквивалентное преобразование.md",
@@ -201,7 +203,6 @@
     "Графика/Цветовые модели.md",
     "Графика/Популярные графические редакторы.md",
     "Графика/Графические системы и языки.md",
-    "Графика/Графика эта....md",
-    "Графика"
+    "Графика/Графика эта....md"
   ]
 }
