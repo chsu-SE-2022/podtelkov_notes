@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Графика/Лекции/09. OpenGL.md",
+                "file": "ООП/Лекции/02. Наследование.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fa2e600442d72230",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Графика/Лекции/09. OpenGL.md",
+                "file": "ООП/Лекции/02. Наследование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Графика/Лекции/09. OpenGL.md",
+                "file": "ООП/Лекции/02. Наследование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Графика/Лекции/09. OpenGL.md"
+                "file": "ООП/Лекции/02. Наследование.md"
               }
             }
           }
@@ -154,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "567bd0ea8a5bf8b8",
+  "active": "82f19b2f89fe4d2b",
   "lastOpenFiles": [
-    "Графика/Лекции/05. Дизайн.md",
+    "ООП/Лекции/01. Заметки на полях по ООП.md",
+    "ООП/Лекции/02. Наследование.md",
+    "Компас.md",
+    "README.md",
+    "ООП/Лекции/Untitled.md",
     "Графика/Лекции/09. OpenGL.md",
+    "Графика/Лекции/05. Дизайн.md",
     "Графика/Лекции/07. графические системы и языки.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -175,19 +172,15 @@
     "Микроэлектроника и схемотехника/Лекции/Embeds/Pasted image 20230926151822.png",
     "Микроэлектроника и схемотехника/Лекции/Embeds/Pasted image 20230926151805.png",
     "Микроэлектроника и схемотехника/Лекции/Embeds/Pasted image 20230926151752.png",
-    "ООП/Лекции/Заметки на полях по ООП.md",
     "Основы Data Science/Лекции/01. Вводная лекция.md",
     "ООП/Лекции/Embeds",
     "ООП/Лекции",
     "Основы Data Science/Лекции",
     "Основы Data Science/Лекции/Embeds",
-    "README.md",
     "Структуры/Лекции/1. Обход графа в ширину (волновой обход).md",
     "Структуры/Лекции/Embeds",
     "Структуры/Лекции/2. Алгоритм Дейкстры.md",
     "Структуры/Лекции",
-    "Компас.md",
-    "ООП/Лекции/Наследование.md",
     "Графика/Лекции/01. Графика эта....md",
     "Графика/Лекции/Embeds",
     "Графика/Embeds",
