@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa2e600442d72230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Графика/Лекции/09. OpenGL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Графика/Лекции/08. Система координат. Мировая, объектная, наблюдателя и экранная..md",
+                "file": "Графика/Лекции/09. OpenGL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Графика/Лекции/08. Система координат. Мировая, объектная, наблюдателя и экранная..md",
+                "file": "Графика/Лекции/09. OpenGL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Графика/Лекции/08. Система координат. Мировая, объектная, наблюдателя и экранная..md"
+                "file": "Графика/Лекции/09. OpenGL.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "416780e2348b5288",
+  "active": "fa2e600442d72230",
   "lastOpenFiles": [
+    "Графика/Лекции/08. Система координат. Мировая, объектная, наблюдателя и экранная..md",
+    "Графика/Лекции/09. OpenGL.md",
     "Графика/Лекции/Embeds/htmlconvd-73xH75_html_ba04efafad8e5b2c.png",
     "Графика/Лекции/Embeds/htmlconvd-73xH75_html_8879a27ffd742c71.png",
     "Графика/Лекции/07. графические системы и языки.md",
-    "Графика/Лекции/08. Система координат. Мировая, объектная, наблюдателя и экранная..md",
     "Графика/Лекции/Embeds/Pasted image 20240213094913.png",
     "Графика/Лекции/05. Дизайн.md",
     "Графика/Лекции/02. Цветовые модели.md",
@@ -189,7 +202,6 @@
     "Микроэлектроника и схемотехника/Лекции/Embeds/Pasted image 20230926151752.png",
     "Микроэлектроника и схемотехника/Лекции/Embeds/Pasted image 20230926151736.png",
     "Микроэлектроника и схемотехника/Лекции/Embeds/Pasted image 20230926151713.png",
-    "Микроэлектроника и схемотехника/Лекции/Embeds/Pasted image 20230926151655.png",
     "ООП/Лекции/Заметки на полях по ООП.md",
     "Основы Data Science/Лекции/01. Вводная лекция.md",
     "ООП/Лекции/Embeds",
