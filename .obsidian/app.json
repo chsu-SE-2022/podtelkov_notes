@@ -1,6 +1,6 @@
 {
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "newFileFolderPath": "Files",
-  "attachmentFolderPath": "Files",
+  "attachmentFolderPath": "./Embeds",
   "alwaysUpdateLinks": true
 }
