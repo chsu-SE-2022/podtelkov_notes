@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Компас.md",
-                "mode": "source",
+                "file": "Основы Data Science/Лекции/01. Вводная лекция.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Компас.md",
+                "file": "Основы Data Science/Лекции/01. Вводная лекция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Компас.md",
+                "file": "Основы Data Science/Лекции/01. Вводная лекция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Компас.md"
+                "file": "Основы Data Science/Лекции/01. Вводная лекция.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,13 +147,14 @@
   },
   "active": "1c25acdee2372b1a",
   "lastOpenFiles": [
+    "Компас.md",
+    "VisualStudio/Продуктивный метод.md",
+    "README.md",
     "Микроэлектроника и схемотехника/Микроэлектроника и схемотехника.md",
     "Микроэлектроника и схемотехника/Термины.md",
     "ООП/Лекции/02. Наследование.md",
     "ООП/Лекции/Наследование.md",
     "ООП/Лекции/01. Заметки на полях по ООП.md",
-    "Компас.md",
-    "VisualStudio/Продуктивный метод.md",
     "Микроэлектроника и схемотехника/Лекции/00. Общая информация.md",
     "Графика/Лекции/Embeds/htmlconvd-73xH75_html_8879a27ffd742c71.png",
     "Графика/Лекции/01. Графика эта....md",
@@ -168,7 +168,6 @@
     "Структуры/Лекции/03. Алгоритм Флойда.md",
     "Структуры/Лекции/04. Транзитивное замыкания.md",
     "VisualStudio",
-    "README.md",
     "Структуры/Лекции/05. Транзитные замыкания.md",
     "Структуры/Лекции/Embeds/Pasted image 20240213160433.png",
     "Структуры/Лекции/01. Обход графа в ширину (волновой обход).md",
