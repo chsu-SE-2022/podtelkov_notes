@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VisualStudio/Продуктивный метод.md",
+                "file": "Компас.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VisualStudio/Продуктивный метод.md",
+                "file": "Компас.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VisualStudio/Продуктивный метод.md",
+                "file": "Компас.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VisualStudio/Продуктивный метод.md"
+                "file": "Компас.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "1c25acdee2372b1a",
   "lastOpenFiles": [
-    "Компас.md",
     "VisualStudio/Продуктивный метод.md",
+    "Компас.md",
     "Микроэлектроника и схемотехника/Микроэлектроника и схемотехника.md",
     "Микроэлектроника и схемотехника/Термины.md",
     "Микроэлектроника и схемотехника/Лекции/00. Общая информация.md",
