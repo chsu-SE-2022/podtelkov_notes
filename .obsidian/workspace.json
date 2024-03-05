@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "e39590c1b232e2be",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43f092591176e15b",
+  "active": "82f19b2f89fe4d2b",
   "lastOpenFiles": [
     "Структуры/Лекции/10. Методы сортировки массивов.md",
     "Структуры/Лекции/08. Способы сортировки последовательностей.md",
