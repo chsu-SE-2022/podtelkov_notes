@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43f092591176e15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теория автоматов и формальных языков/Лекции/11. Лекс анализ кратка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e964a8401322ddae",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
