@@ -154,11 +154,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2f735bba6e3120e",
+  "active": "630643a847bd3385",
   "lastOpenFiles": [
     "Микроэлектроника и схемотехника/Лекции/Экзамен.md",
     "Микроэлектроника и схемотехника/Лекции/Подготовка.md",
