@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dea6208b172ca1a7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0672d8cf403df74e",
+  "active": "dea6208b172ca1a7",
   "lastOpenFiles": [
     "Структуры/Лекции/10. Методы сортировки массивов.md",
     "Структуры/Лекции/11. Улучшенные методы сортировки.md",
