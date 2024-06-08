@@ -11,8 +11,12 @@
             "id": "fa1469372a650123",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "микро/Лекции/00. Общая информация.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "микро/Лекции/00. Общая информация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "микро/Лекции/00. Общая информация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "микро/Лекции/00. Общая информация.md"
+              }
             }
           }
         ]
@@ -139,5 +147,13 @@
     }
   },
   "active": "fa1469372a650123",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "микро/Лекции/01. Шифраторы и дешифраторы.md",
+    "микро/Лекции/02. Мультиплексоры и демультиплексоры.md",
+    "микро/Лекции/03. Преобразователь кодов.md",
+    "микро/Лекции/04. Счетчики.md",
+    "микро/Лекции/05. Сумматоры и полусумматоры. Устройство умножения. АЛУ.md",
+    "микро/Лекции/06. Подготовка к контрольной работе.md",
+    "микро/Лекции/00. Общая информация.md"
+  ]
 }
