@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4201921c7bca92f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa1469372a650123",
+  "active": "4201921c7bca92f3",
   "lastOpenFiles": [
     "микро/Лекции/01. Шифраторы и дешифраторы.md",
     "микро/Лекции/02. Мультиплексоры и демультиплексоры.md",
