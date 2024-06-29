@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5beb75f646555989",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df545f9c259d44df",
+  "active": "5beb75f646555989",
   "lastOpenFiles": [
     "структуры2/Лекции/02. Способы сортировки последовательностей.md",
     "структуры2/Лекции/01. Алгоритмы теории графов.md",
