@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "675d224574cdd9ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "870e325e02ca8425",
+  "active": "675d224574cdd9ff",
   "lastOpenFiles": [
     "структуры2/Лекции/01. Алгоритмы теории графов.md",
     "Python/Базовая информация.md",
