@@ -35,9 +35,11 @@
             "id": "675d224574cdd9ff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "C++++/Делегаты.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Базовая информация.md",
+                "file": "C++++/Делегаты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Базовая информация.md",
+                "file": "C++++/Делегаты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Базовая информация.md"
+                "file": "C++++/Делегаты.md"
               }
             }
           }
@@ -171,6 +173,8 @@
   },
   "active": "675d224574cdd9ff",
   "lastOpenFiles": [
+    "C++++/Делегаты.md",
+    "C++++",
     "структуры2/Лекции/01. Алгоритмы теории графов.md",
     "Python/Базовая информация.md",
     "Python",
@@ -196,7 +200,6 @@
     "микро/Лекции/06. Подготовка к контрольной работе.md",
     "микро/Лекции/05. Сумматоры и полусумматоры. Устройство умножения. АЛУ.md",
     "микро/Лекции/04. Счетчики.md",
-    "микро/Лекции/03. Преобразователь кодов.md",
-    "микро/Лекции/02. Мультиплексоры и демультиплексоры.md"
+    "микро/Лекции/03. Преобразователь кодов.md"
   ]
 }
