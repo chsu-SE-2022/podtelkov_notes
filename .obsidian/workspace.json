@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f218b9f422392cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/ЭВМ 2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e08b1dac4382a167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Общая информация.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acb2b7575b67361e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/01. Вычислительная машина.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df6a71b2bc69207e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled/02. Типы структур вычислительных систем.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled/02. Типы структур вычислительных систем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled/02. Типы структур вычислительных систем.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Untitled.md"
+                "file": "Untitled/02. Типы структур вычислительных систем.md"
               }
             }
           }
@@ -186,7 +149,7 @@
   "active": "df6a71b2bc69207e",
   "lastOpenFiles": [
     "Untitled/01. Вычислительная машина.md",
-    "Untitled/Untitled.md",
+    "Untitled/02. Типы структур вычислительных систем.md",
     "Untitled/Общая информация.md",
     "Untitled/ЭВМ 2.0.md",
     "Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md",
