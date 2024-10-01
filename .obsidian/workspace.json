@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЭВМ 2.0.md",
+                "file": "Untitled/ЭВМ 2.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e08b1dac4382a167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ЭВМ 2.0.md",
+                "file": "Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ЭВМ 2.0.md",
+                "file": "Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЭВМ 2.0.md"
+                "file": "Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f218b9f422392cd4",
+  "active": "e08b1dac4382a167",
   "lastOpenFiles": [
-    "ЭВМ 2.0.md",
+    "Untitled/Общая информация.md",
+    "Untitled/ЭВМ 2.0.md",
+    "Untitled",
     "C++++/Untitled.md",
     "C++++/Делегаты.md",
     "структуры2/Лекции/00. Общая информация.md",
@@ -174,7 +189,6 @@
     "Структуры/Лекции/05. Транзитные замыкания.md",
     "Структуры/Лекции/03. Алгоритм Флойда.md",
     "Компас.md",
-    "README.md",
-    "микро/Лекции/06. Подготовка к контрольной работе.md"
+    "README.md"
   ]
 }
