@@ -11,8 +11,12 @@
             "id": "f218b9f422392cd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ЭВМ 2.0.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ЭВМ 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ЭВМ 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ЭВМ 2.0.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "f218b9f422392cd4",
   "lastOpenFiles": [
+    "ЭВМ 2.0.md",
     "C++++/Untitled.md",
     "C++++/Делегаты.md",
     "структуры2/Лекции/00. Общая информация.md",
@@ -166,7 +175,6 @@
     "Структуры/Лекции/03. Алгоритм Флойда.md",
     "Компас.md",
     "README.md",
-    "микро/Лекции/06. Подготовка к контрольной работе.md",
-    "микро/Лекции/05. Сумматоры и полусумматоры. Устройство умножения. АЛУ.md"
+    "микро/Лекции/06. Подготовка к контрольной работе.md"
   ]
 }
