@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b1a7732a726c326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Оскар.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/02. Типы структур вычислительных систем.md",
+                "file": "Untitled/Оскар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/02. Типы структур вычислительных систем.md",
+                "file": "Untitled/Оскар.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/02. Типы структур вычислительных систем.md"
+                "file": "Untitled/Оскар.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df6a71b2bc69207e",
+  "active": "5b1a7732a726c326",
   "lastOpenFiles": [
-    "Untitled/01. Вычислительная машина.md",
     "Untitled/02. Типы структур вычислительных систем.md",
+    "Untitled/Оскар.md",
+    "Untitled/01. Вычислительная машина.md",
     "Untitled/Общая информация.md",
     "Untitled/ЭВМ 2.0.md",
     "Микроэлектроника и схемотехника/Лекции/02. Классификация микросхем и условные обозначения.md",
@@ -175,7 +189,6 @@
     "Структуры/Лекции/09. Сложность алгоритма.md",
     "Структуры/Лекции/08. Способы сортировки последовательностей.md",
     "Структуры/Лекции/07. Остовные деревья минимальной стоимости.md",
-    "Структуры/Лекции/06. Поиск циклов в графе.md",
-    "Структуры/Лекции/05. Транзитные замыкания.md"
+    "Структуры/Лекции/06. Поиск циклов в графе.md"
   ]
 }
