@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История развития ЭВМ.md",
+                "file": "Классификация ЭВМ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История развития ЭВМ.md",
+                "file": "Классификация ЭВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История развития ЭВМ.md",
+                "file": "Классификация ЭВМ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История развития ЭВМ.md"
+                "file": "Классификация ЭВМ.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "ca5bed7653ab6a41",
   "lastOpenFiles": [
-    "Классификация ЭВМ.md",
     "История развития ЭВМ.md",
+    "Классификация ЭВМ.md",
     "Базы данных/Лекции/06. Реляционная модель БД.md",
     "Базы данных/Лекции/Untitled.md",
     "Базы данных/Лекции/Untitled 1.md",
