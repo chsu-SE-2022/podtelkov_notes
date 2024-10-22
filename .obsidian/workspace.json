@@ -16,7 +16,9 @@
                 "file": "Классификация ЭВМ.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Классификация ЭВМ"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Базы данных/Лекции/11.  Компиляторы SQL. Проблемы с оптимизацией.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "11.  Компиляторы SQL. Проблемы с оптимизацией"
             }
           },
           {
@@ -40,11 +44,25 @@
                 "file": "Базы данных/Лекции/12. Архитектура клиент-сервер.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "12. Архитектура клиент-сервер"
+            }
+          },
+          {
+            "id": "2f123f79576b41e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базы данных/Лекции/12. Архитектура клиент-сервер.md",
+                "file": "Классификация ЭВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Классификация ЭВМ"
             }
           },
           {
@@ -127,10 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базы данных/Лекции/12. Архитектура клиент-сервер.md",
+                "file": "Классификация ЭВМ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Классификация ЭВМ"
             }
           },
           {
@@ -141,7 +169,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базы данных/Лекции/12. Архитектура клиент-сервер.md"
-              }
+                "file": "Классификация ЭВМ.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Классификация ЭВМ"
             }
           }
         ]
@@ -171,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60f7527c9fb3271d",
+  "active": "2f123f79576b41e6",
   "lastOpenFiles": [
     "Базы данных/Лекции/11.  Компиляторы SQL. Проблемы с оптимизацией.md",
     "Базы данных/Лекции/12. Архитектура клиент-сервер.md",
