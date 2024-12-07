@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "11. Экономический рост и развитие. Понятие ВВП"
             }
+          },
+          {
+            "id": "cef58e8c25355fb9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60f7527c9fb3271d",
+  "active": "cef58e8c25355fb9",
   "lastOpenFiles": [
     "экономика/Лекции/05. Постоянные и переменные затраты.md",
     "экономика/Лекции/03. Экономические системы.md",
