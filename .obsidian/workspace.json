@@ -8,105 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c95cc314540eaa7",
+            "id": "a33fb5c05d2f6274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/5. Схема жизенного цикла программы на Java.md",
+                "file": "Операционные системы ЭВМ/3. Эволюция операционных систем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Схема жизенного цикла программы на Java"
-            }
-          },
-          {
-            "id": "a740dfa5e5ab1439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. Системы программирования на Java (Интегрированные среды разработки Java-приложений).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Системы программирования на Java (Интегрированные среды разработки Java-приложений)"
-            }
-          },
-          {
-            "id": "1f59149d4591159d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/7. Простейшая Java-программа.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Простейшая Java-программа"
-            }
-          },
-          {
-            "id": "6f680dc79ee73433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/8. Простые типы данных - целые числа.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Простые типы данных - целые числа"
-            }
-          },
-          {
-            "id": "556903724e42be6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/дрдр.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "дрдр"
-            }
-          },
-          {
-            "id": "3d9cf193b5f656b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционные системы ЭВМ/Введение.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Введение"
-            }
-          },
-          {
-            "id": "7c85d4e5ccb58177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционные системы ЭВМ/Список литературы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Список литературы"
+              "title": "3. Эволюция операционных систем"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c85d4e5ccb58177",
+  "active": "a33fb5c05d2f6274",
   "lastOpenFiles": [
-    "Операционные системы ЭВМ/Введение.md",
-    "Операционные системы ЭВМ/Список литературы.md",
+    "Операционные системы ЭВМ/2. Список литературы.md",
+    "Операционные системы ЭВМ/3. Эволюция операционных систем.md",
+    "Операционные системы ЭВМ/1. Введение.md",
     "Java/Untitled.md",
     "Java/дрдр.md",
     "Операционные системы ЭВМ",
@@ -281,7 +197,6 @@
     "экономика/Лекции/13. Налоги.md",
     "экономика/Лекции/12. Роль государства в экономике.md",
     "экономика/Лекции/11. Экономический рост и развитие. Понятие ВВП.md",
-    "экономика/Лекции/10. Виды, причины и последствия инфляции.md",
     "экономика/Pictures/11_01. Фазы экономического цикла.png",
     "экономика/Pictures/04_04. Изменение величины предложения.png",
     "экономика/Pictures/04_03. Изменение предложения.png",
